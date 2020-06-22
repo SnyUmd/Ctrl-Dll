@@ -5,8 +5,10 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:TestCtrl"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="210.857" Width="461.857">
     <Grid>
-        
+        <Button Content="Button" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="10,10,0,0"/>
+        <TextBox HorizontalAlignment="Left" Height="105" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="434" Margin="10,35,0,0"/>
+
     </Grid>
 </Window>
