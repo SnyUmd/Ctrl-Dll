@@ -46,7 +46,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="clsGdriveCtrl.cs" />
     <Compile Include="cls_DB_Ctrl.cs" />
     <Compile Include="cls_Etc.cs" />
     <Compile Include="cls_Excel_Cont.cs" />
@@ -56,6 +55,7 @@
     <Compile Include="cls_List_Ctrl.cs" />
     <Compile Include="cls_M_D_umd.cs" />
     <Compile Include="cls_Python_Ctrl.cs" />
+    <Compile Include="cls_Security_Ctrl.cs" />
     <Compile Include="cls_Selial_Ctrl.cs" />
     <Compile Include="cls_Text_Cont.cs" />
     <Compile Include="cls_ToolCtrl.cs" />
